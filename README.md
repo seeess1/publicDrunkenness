@@ -1,4 +1,4 @@
-![Alt text](../images/pub_drunkenness.jpeg)
+![Alt text](/images/pub_drunkenness.jpeg)
 
 
 ## Public Drunkenness
